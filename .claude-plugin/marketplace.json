@@ -1,0 +1,11 @@
+{
+  "name": "baran-plugins",
+  "owner": { "name": "Baran Bingöl" },
+  "plugins": [
+    {
+      "name": "codebase-quality",
+      "source": { "source": "github", "repo": "baranbingol1/claude-codebase-quality" },
+      "description": "Automated code review agents and workflows"
+    }
+  ]
+}

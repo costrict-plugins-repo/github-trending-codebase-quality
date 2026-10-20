@@ -1,0 +1,9 @@
+{
+  "name": "codebase-quality",
+  "description": "Automated code review for codebase using multiple specialized agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Baran Bingöl",
+    "email": "baranbingol212121@gmail.com"
+  }
+}
